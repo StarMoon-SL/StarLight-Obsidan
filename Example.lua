@@ -1,4 +1,4 @@
-local repo = "https://raw.githubusercontent.com/StarMoon-SL/StarLight-Obsidan/tree/main"
+local repo = "https://raw.githubusercontent.com/StarMoon-SL/StarLight-Obsidan/refs/heads/main/"
 local Library = loadstring(game:HttpGet(repo .. "Library.lua"))()
 local ThemeManager = loadstring(game:HttpGet(repo .. "Addons/ThemeManager.lua"))()
 local SaveManager = loadstring(game:HttpGet(repo .. "Addons/SaveManager.lua"))()
